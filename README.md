@@ -1,5 +1,4 @@
 "# Personal-Portfolio-Webpage" 
-
-###Sample Web:
+###S ample Web:
 
 https://personal-portfolio.freecodecamp.rocks/
